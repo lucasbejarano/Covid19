@@ -1,0 +1,500 @@
+﻿sexo,grupo_etario,jurisdiccion_residencia,jurisdiccion_residencia_id,depto_residencia,depto_residencia_id,jurisdiccion_aplicacion,jurisdiccion_aplicacion_id,depto_aplicacion,depto_aplicacion_id,fecha_aplicacion,vacuna,condicion_aplicacion,orden_dosis,lote_vacuna
+F,18-29,Buenos Aires,6,Berazategui,91,Buenos Aires,6,Berazategui,91,5/3/2021,Sinopharm,Estrategico,1,2021010036
+F,18-29,Buenos Aires,6,Berisso,98,Buenos Aires,6,Berisso,98,19/3/2021,Sinopharm,Estrategico,1,2021010036
+M,30-39,Buenos Aires,6,San Pedro,770,Buenos Aires,6,San Pedro,770,11/3/2021,Sinopharm,Riesgo,1,2021010048
+F,30-39,Buenos Aires,6,Berisso,98,Buenos Aires,6,La Plata,441,2/3/2021,COVISHIELD,Salud,1,4120Z023
+F,30-39,CABA,2,COMUNA 1,1,Buenos Aires,6,Berazategui,91,9/3/2021,Sinopharm,Estrategico,1,2021010036
+M,18-29,Buenos Aires,6,Chivilcoy,224,Buenos Aires,6,25 de Mayo,854,23/3/2021,Sinopharm,Estrategico,1,2021010048
+M,18-29,Buenos Aires,6,Berisso,98,Buenos Aires,6,Berisso,98,8/3/2021,Sinopharm,Riesgo,1,2021010036
+M,18-29,Buenos Aires,6,25 de Mayo,854,Buenos Aires,6,Chivilcoy,224,8/1/2021,Sputnik,Salud,1,486081120R
+M,18-29,Buenos Aires,6,25 de Mayo,854,Buenos Aires,6,Chivilcoy,224,2/2/2021,Sputnik,Salud,2,ZB01720
+M,18-29,Buenos Aires,6,Avellaneda,35,Buenos Aires,6,Avellaneda,35,16/3/2021,Sinopharm,Estrategico,1,2021010048
+F,18-29,Buenos Aires,6,Berisso,98,Buenos Aires,6,Berisso,98,11/3/2021,Sinopharm,Estrategico,1,2021010036
+M,18-29,Misiones,54,Capital,28,Misiones,54,Capital,28,8/3/2021,Sinopharm,Salud,1,2021010044
+M,18-29,Buenos Aires,6,Berisso,98,Buenos Aires,6,Berisso,98,11/3/2021,Sinopharm,Estrategico,1,2021010036
+M,18-29,Cordoba,14,Punilla,91,Cordoba,14,Capital,14,3/3/2021,Sinopharm,Estrategico,1,2021010039
+M,18-29,Cordoba,14,Cruz del Eje,28,Cordoba,14,Capital,14,5/3/2021,Sinopharm,Estrategico,1,2021010039
+F,30-39,Cordoba,14,Capital,14,Cordoba,14,Capital,14,8/3/2021,Sinopharm,Salud,1,2021010039
+F,18-29,Cordoba,14,Punilla,91,Cordoba,14,Punilla,91,26/2/2021,COVISHIELD,Salud,1,4120Z023
+M,70-79,Corrientes,18,Santo Tome,168,Corrientes,18,Santo Tome,168,30/3/2021,Sputnik,>60,1,I-220321
+F,70-79,Corrientes,18,San Cosme,133,Corrientes,18,San Cosme,133,1/4/2021,Sputnik,>60,1,I-240321
+F,70-79,San Juan,70,Albardon,7,San Juan,70,Albardon,7,18/3/2021,Sputnik,>60,1,ZA00921
+M,70-79,La Rioja,46,Capital,14,La Rioja,46,Capital,14,5/4/2021,Sputnik,>60,1,I-220321
+F,70-79,Cordoba,14,Capital,14,Cordoba,14,Capital,14,18/2/2021,Sputnik,Salud,1,I-080121
+F,70-79,Cordoba,14,Capital,14,Cordoba,14,Capital,14,12/3/2021,Sputnik,Salud,2,II-0800221
+M,80-89,La Rioja,46,Rosario Vera Peñaloza,112,La Rioja,46,Rosario Vera Peñaloza,112,8/3/2021,COVISHIELD,>60,1,4120Z023
+F,80-89,Mendoza,50,General Alvear,14,Mendoza,50,General Alvear,14,8/3/2021,COVISHIELD,>60,1,4120Z023
+F,60-69,Buenos Aires,6,Berisso,98,Buenos Aires,6,Berisso,98,22/3/2021,Sputnik,>60,1,I-110121
+M,70-79,Buenos Aires,6,Berazategui,91,Buenos Aires,6,Berazategui,91,31/3/2021,Sputnik,>60,1,I-110121
+F,80-89,Corrientes,18,San Martin,147,Corrientes,18,San Martin,147,29/3/2021,Sputnik,Estrategico,1,I-220321
+F,80-89,Corrientes,18,Saladas,126,Corrientes,18,Saladas,126,30/3/2021,Sinopharm,>60,1,2021010044
+F,80-89,Santiago del Estero,86,Banda,35,Santiago del Estero,86,Banda,35,29/3/2021,Sputnik,>60,1,I-070121
+F,80-89,Buenos Aires,6,Berazategui,91,Buenos Aires,6,Berazategui,91,15/3/2021,Sputnik,>60,1,I-070121
+F,70-79,Santiago del Estero,86,Banda,35,Santiago del Estero,86,Banda,35,12/3/2021,Sputnik,Estrategico,1,I-070121
+M,70-79,Corrientes,18,Esquina,49,Corrientes,18,Esquina,49,23/3/2021,Sputnik,>60,1,I-110121
+M,70-79,Corrientes,18,General Paz,63,Corrientes,18,General Paz,63,12/3/2021,Sputnik,>60,1,486010121
+F,50-59,Santiago del Estero,86,Ojo de Agua,126,Santiago del Estero,86,Quebrachos,140,19/3/2021,Sinopharm,Estrategico,1,2021010039
+F,50-59,La Rioja,46,Capital,14,La Rioja,46,Capital,14,29/3/2021,Sinopharm,Riesgo,1,2021010043
+F,50-59,Buenos Aires,6,Berisso,98,Buenos Aires,6,Berisso,98,5/3/2021,Sinopharm,Riesgo,1,2021010038
+F,40-49,Buenos Aires,6,25 de Mayo,854,Buenos Aires,6,25 de Mayo,854,23/2/2021,COVISHIELD,Estrategico,1,4120Z023
+F,50-59,Santiago del Estero,86,Banda,35,Santiago del Estero,86,Capital,49,10/3/2021,Sinopharm,Estrategico,1,2021010039
+F,50-59,Misiones,54,Capital,28,Misiones,54,Capital,28,15/3/2021,Sinopharm,Estrategico,1,2021010044
+M,50-59,Corrientes,18,Empedrado,42,Corrientes,18,Empedrado,42,29/3/2021,Sinopharm,Estrategico,1,2021010044
+F,60-69,Buenos Aires,6,25 de Mayo,854,Buenos Aires,6,25 de Mayo,854,8/3/2021,COVISHIELD,>60,1,4120Z023
+F,60-69,Cordoba,14,Capital,14,Cordoba,14,Capital,14,31/3/2021,AstraZeneca,>60,1,CTMAV501
+F,60-69,Salta,66,Rivadavia,133,Salta,66,Rivadavia,133,31/3/2021,COVISHIELD,>60,1,4120Z023
+F,60-69,Misiones,54,Obera,91,Misiones,54,Obera,91,3/4/2021,Sputnik,>60,1,I-220321
+M,50-59,La Rioja,46,Capital,14,La Rioja,46,Capital,14,7/1/2021,Sputnik,Salud,1,486081120R
+M,50-59,La Rioja,46,Capital,14,La Rioja,46,Capital,14,28/1/2021,Sputnik,Salud,2,ZB01720
+M,50-59,San Juan,70,Jachal,56,San Juan,70,Jachal,56,19/3/2021,Sinopharm,Estrategico,1,2021010036
+F,50-59,Cordoba,14,San Javier,133,Cordoba,14,San Javier,133,13/1/2021,Sputnik,Salud,1,486081120R
+F,50-59,Cordoba,14,San Javier,133,Cordoba,14,San Javier,133,9/2/2021,Sputnik,Salud,2,ZB01820
+F,50-59,Neuquen,58,Zapala,112,Neuquen,58,Zapala,112,1/3/2021,Sputnik,Salud,1,I-080121
+F,50-59,Corrientes,18,Santo Tome,168,Corrientes,18,Santo Tome,168,9/3/2021,Sinopharm,Estrategico,1,2021010039
+M,30-39,Buenos Aires,6,Berazategui,91,Buenos Aires,6,Berazategui,91,5/2/2021,Sputnik,Salud,2,ZB01820
+M,30-39,Cordoba,14,San Javier,133,Cordoba,14,San Javier,133,3/3/2021,Sinopharm,Estrategico,1,2021010039
+F,40-49,Cordoba,14,Capital,14,Cordoba,14,Capital,14,23/2/2021,COVISHIELD,Salud,1,4120Z023
+F,40-49,Buenos Aires,6,General Pueyrredon,357,Buenos Aires,6,General Pueyrredon,357,8/3/2021,Sinopharm,Estrategico,1,2021010038
+F,40-49,Buenos Aires,6,25 de Mayo,854,Buenos Aires,6,25 de Mayo,854,9/1/2021,Sputnik,Salud,1,486081120R
+F,40-49,Buenos Aires,6,25 de Mayo,854,Buenos Aires,6,25 de Mayo,854,6/2/2021,Sputnik,Salud,2,ZB01820
+F,40-49,La Rioja,46,General Belgrano,63,La Rioja,46,Chamical,35,7/1/2021,Sputnik,Salud,1,486081120R
+F,40-49,La Rioja,46,General Belgrano,63,La Rioja,46,Chamical,35,2/2/2021,Sputnik,Salud,2,ZB01720
+F,40-49,Entre Rios,30,La Paz,70,Entre Rios,30,La Paz,70,24/3/2021,Sinopharm,Estrategico,1,2021010044
+F,40-49,Cordoba,14,Colon,21,Cordoba,14,Colon,21,10/3/2021,Sinopharm,Estrategico,1,2021010039
+F,30-39,Corrientes,18,Bella Vista,7,Corrientes,18,Bella Vista,7,22/2/2021,COVISHIELD,Salud,1,4120Z023
+F,30-39,Cordoba,14,Ischilin,49,Cordoba,14,Ischilin,49,10/3/2021,Sinopharm,Salud,1,2021010043
+F,30-39,Cordoba,14,Capital,14,Cordoba,14,Capital,14,19/2/2021,Sputnik,Salud,1,I-080121
+F,30-39,Cordoba,14,Capital,14,Cordoba,14,Capital,14,12/3/2021,Sputnik,Salud,2,II-0800221
+M,40-49,Corrientes,18,Esquina,49,Corrientes,18,Esquina,49,25/3/2021,Sinopharm,Estrategico,1,2021010039
+F,40-49,Salta,66,Oran,126,Salta,66,Oran,126,8/1/2021,Sputnik,Salud,1,486081120R
+F,40-49,Salta,66,Oran,126,Salta,66,Oran,126,29/1/2021,Sputnik,Salud,2,ZB01820
+F,40-49,Cordoba,14,Rio Seco,112,Cordoba,14,Rio Seco,112,10/3/2021,Sinopharm,Estrategico,1,2021010043
+F,60-69,Cordoba,14,Capital,14,Cordoba,14,Capital,14,5/4/2021,Sinopharm,>60,1,2021030203
+F,30-39,Buenos Aires,6,General Pueyrredon,357,Buenos Aires,6,General Pueyrredon,357,10/3/2021,Sinopharm,Estrategico,1,2021010036
+F,50-59,Buenos Aires,6,Berisso,98,Buenos Aires,6,Berisso,98,6/3/2021,Sinopharm,Riesgo,1,2021010038
+F,60-69,Cordoba,14,Capital,14,Cordoba,14,Capital,14,3/4/2021,Sputnik,>60,1,I-250321
+M,60-69,Buenos Aires,6,Berisso,98,Buenos Aires,6,Berisso,98,2/4/2021,Sinopharm,>60,1,2021010048
+M,40-49,Buenos Aires,6,Berisso,98,Buenos Aires,6,Berisso,98,30/3/2021,Sinopharm,Estrategico,1,2021010048
+M,60-69,Neuquen,58,Confluencia,35,Neuquen,58,Confluencia,35,5/4/2021,Sinopharm,>60,1,2021030208
+F,70-79,Cordoba,14,Tercero Arriba,161,Cordoba,14,Tercero Arriba,161,30/3/2021,Sputnik,>60,1,I-220321
+F,80-89,Buenos Aires,6,Lanus,434,Buenos Aires,6,Lanus,434,31/3/2021,Sputnik,>60,1,I-220321
+M,70-79,Formosa,34,Pilcomayo,49,Formosa,34,Pilcomayo,49,24/2/2021,COVISHIELD,>60,1,4120Z023
+M,70-79,Buenos Aires,6,Berazategui,91,Buenos Aires,6,Berazategui,91,31/3/2021,Sputnik,>60,1,I-210321
+M,50-59,Buenos Aires,6,Quilmes,658,Buenos Aires,6,Berazategui,91,19/2/2021,Sputnik,Salud,1,I-080121
+M,50-59,Buenos Aires,6,Quilmes,658,Buenos Aires,6,Berazategui,91,25/3/2021,Sputnik,Salud,2,II-100221
+M,50-59,Santa Fe,82,9 de Julio,77,Santa Fe,82,9 de Julio,77,8/3/2021,Sinopharm,Estrategico,1,2021010044
+M,80-89,Santa Fe,82,San Cristobal,91,Santa Fe,82,San Cristobal,91,19/3/2021,Sputnik,>60,1,I-080121
+F,70-79,Buenos Aires,6,Berazategui,91,Buenos Aires,6,Berazategui,91,26/3/2021,Sputnik,>60,1,I-210321
+F,40-49,Mendoza,50,Guaymallen,28,Mendoza,50,Capital,7,10/3/2021,Sinopharm,Estrategico,1,2021010044
+M,50-59,Buenos Aires,6,Vicente Lopez,861,CABA,2,COMUNA 4,4,13/3/2021,Sinopharm,Salud,1,2021010024
+F,60-69,CABA,2,COMUNA 1,1,Buenos Aires,6,Moron,568,8/2/2021,Sputnik,Salud,1,I-031220
+F,60-69,CABA,2,COMUNA 1,1,Buenos Aires,6,Moron,568,4/3/2021,Sputnik,Salud,2,ZB01920
+M,60-69,CABA,2,COMUNA 1,1,CABA,2,COMUNA 4,4,22/3/2021,Sputnik,Salud,1,I-110121
+M,50-59,Buenos Aires,6,Lomas de Zamora,490,Buenos Aires,6,Lomas de Zamora,490,21/2/2021,Sputnik,Salud,1,I-080121
+M,50-59,Buenos Aires,6,Lomas de Zamora,490,Buenos Aires,6,Lomas de Zamora,490,19/3/2021,Sputnik,Salud,2,II-100221
+F,80-89,Buenos Aires,6,La Plata,441,Buenos Aires,6,La Plata,441,17/3/2021,Sputnik,>60,1,I-120121
+M,80-89,Buenos Aires,6,Quilmes,658,Buenos Aires,6,Quilmes,658,21/3/2021,Sputnik,>60,1,I-110121
+M,70-79,Buenos Aires,6,San Nicolas,763,Buenos Aires,6,San Nicolas,763,25/1/2021,Sputnik,Salud,1,486081120R
+M,70-79,Buenos Aires,6,San Nicolas,763,Buenos Aires,6,San Nicolas,763,18/2/2021,Sputnik,Salud,2,ZB02020
+F,18-29,Buenos Aires,6,La Matanza,427,Buenos Aires,6,La Matanza,427,22/2/2021,COVISHIELD,Salud,1,4120Z023
+M,80-89,Neuquen,58,Confluencia,35,Neuquen,58,Confluencia,35,16/3/2021,Sputnik,>60,1,I-080121
+M,70-79,Buenos Aires,6,Moreno,560,Buenos Aires,6,Moreno,560,29/3/2021,Sputnik,>60,1,I-210321
+F,70-79,Buenos Aires,6,Moreno,560,Buenos Aires,6,Moreno,560,2/4/2021,Sputnik,>60,1,I-210321
+F,50-59,Buenos Aires,6,Moreno,560,Buenos Aires,6,Moreno,560,22/2/2021,Sputnik,Salud,1,I-080121
+F,50-59,Buenos Aires,6,Moreno,560,Buenos Aires,6,Moreno,560,18/3/2021,Sputnik,Salud,2,II-090221
+M,60-69,Buenos Aires,6,Avellaneda,35,Buenos Aires,6,Avellaneda,35,2/2/2021,Sputnik,Salud,1,486081120R
+M,60-69,Buenos Aires,6,Avellaneda,35,Buenos Aires,6,Avellaneda,35,25/2/2021,Sputnik,Salud,2,ZB01920
+F,40-49,Buenos Aires,6,Moreno,560,Buenos Aires,6,Moreno,560,12/3/2021,Sputnik,Riesgo,1,I-070121
+M,30-39,Buenos Aires,6,Moreno,560,Buenos Aires,6,Marcos Paz,525,5/4/2021,Sinopharm,Estrategico,1,2021010038
+M,80-89,Buenos Aires,6,Moreno,560,Buenos Aires,6,Moreno,560,31/3/2021,Sputnik,>60,1,I-210321
+F,70-79,Buenos Aires,6,Moreno,560,Buenos Aires,6,Moreno,560,30/3/2021,Sputnik,>60,1,I-210321
+F,30-39,Buenos Aires,6,Moreno,560,Buenos Aires,6,Moreno,560,4/3/2021,Sinopharm,Estrategico,1,2021010036
+F,80-89,Buenos Aires,6,Moreno,560,Buenos Aires,6,Moreno,560,17/3/2021,Sputnik,>60,1,I-120121
+F,30-39,Buenos Aires,6,Ituzaingo,410,Buenos Aires,6,Moron,568,31/12/2020,Sputnik,Salud,1,486081120R
+F,30-39,Buenos Aires,6,Ituzaingo,410,Buenos Aires,6,Moron,568,22/1/2021,Sputnik,Salud,2,ZB01720
+F,30-39,Chaco,22,Sargento Cabral,154,Chaco,22,Sargento Cabral,154,13/3/2021,Sputnik,Salud,1,486010121
+S.I.,80-89,San Juan,70,Sarmiento,105,San Juan,70,Sarmiento,105,8/3/2021,COVISHIELD,>60,1,4120Z023
+F,70-79,Buenos Aires,6,Esteban Echeverria,260,Buenos Aires,6,Esteban Echeverria,260,27/3/2021,Sputnik,>60,1,I-210321
+M,30-39,Buenos Aires,6,La Matanza,427,Buenos Aires,6,La Matanza,427,8/3/2021,Sinopharm,Riesgo,1,2021010038
+F,50-59,Entre Rios,30,Uruguay,98,Entre Rios,30,Uruguay,98,25/2/2021,Sputnik,Salud,1,za00121
+F,50-59,Entre Rios,30,Uruguay,98,Entre Rios,30,Uruguay,98,19/3/2021,Sputnik,Salud,2,ZB01920
+S.I.,80-89,Rio Negro,62,Adolfo Alsina,7,Rio Negro,62,Adolfo Alsina,7,31/3/2021,Sputnik,>60,1,I-240321
+F,80-89,Entre Rios,30,Concordia,15,Entre Rios,30,Concordia,15,26/3/2021,Sputnik,>60,1,I-210321
+F,60-69,Chaco,22,2 de Abril,39,Chaco,22,2 de Abril,39,3/4/2021,AstraZeneca,>60,1,CTMAV501
+M,18-29,Buenos Aires,6,La Matanza,427,Buenos Aires,6,La Matanza,427,9/3/2021,Sinopharm,Riesgo,1,2021010048
+M,80-89,CABA,2,COMUNA 1,1,CABA,2,COMUNA 4,4,16/3/2021,Sputnik,>60,1,I-060121
+F,70-79,Entre Rios,30,Gualeguaychu,56,Entre Rios,30,Gualeguaychu,56,17/3/2021,Sputnik,>60,1,486010121
+F,50-59,Buenos Aires,6,Berazategui,91,Buenos Aires,6,Berazategui,91,11/3/2021,Sinopharm,Riesgo,1,2021010036
+F,70-79,Neuquen,58,Confluencia,35,Neuquen,58,Confluencia,35,24/2/2021,COVISHIELD,>60,1,4120Z023
+F,50-59,La Rioja,46,Famatina,49,La Rioja,46,Chilecito,42,7/1/2021,Sputnik,Salud,1,486081120R
+F,50-59,La Rioja,46,Famatina,49,La Rioja,46,Chilecito,42,29/1/2021,Sputnik,Salud,2,ZB01820
+M,60-69,Buenos Aires,6,La Matanza,427,Buenos Aires,6,La Matanza,427,6/3/2021,COVISHIELD,>60,1,4120Z023
+M,70-79,Buenos Aires,6,Necochea,581,Buenos Aires,6,Necochea,581,26/1/2021,Sputnik,Salud,1,486081120R
+M,70-79,Buenos Aires,6,Necochea,581,Buenos Aires,6,Necochea,581,19/2/2021,Sputnik,Salud,2,ZB02020
+F,40-49,Buenos Aires,6,Chivilcoy,224,Buenos Aires,6,Chivilcoy,224,8/1/2021,Sputnik,Salud,1,486081120R
+F,40-49,Buenos Aires,6,Chivilcoy,224,Buenos Aires,6,Chivilcoy,224,2/2/2021,Sputnik,Salud,2,ZB01720
+M,70-79,Buenos Aires,6,Ensenada,245,Buenos Aires,6,Ensenada,245,18/3/2021,Sputnik,>60,1,I-140121
+F,30-39,Buenos Aires,6,Patagones,602,Buenos Aires,6,Patagones,602,23/2/2021,Sputnik,Estrategico,1,I-080121
+F,30-39,Buenos Aires,6,Patagones,602,Buenos Aires,6,Patagones,602,19/3/2021,Sputnik,Estrategico,2,II-100221
+M,50-59,Buenos Aires,6,Hipolito Yrigoyen,406,Buenos Aires,6,Hipolito Yrigoyen,406,15/1/2021,Sputnik,Salud,1,486081120R
+M,50-59,Buenos Aires,6,Hipolito Yrigoyen,406,Buenos Aires,6,Hipolito Yrigoyen,406,5/2/2021,Sputnik,Salud,2,ZB01820
+M,70-79,Buenos Aires,6,La Matanza,427,Buenos Aires,6,La Matanza,427,19/2/2021,Sputnik,>60,1,I-080121
+F,40-49,Buenos Aires,6,La Plata,441,Buenos Aires,6,La Plata,441,18/1/2021,Sputnik,Salud,1,486081120R
+F,40-49,Buenos Aires,6,La Plata,441,Buenos Aires,6,La Plata,441,11/2/2021,Sputnik,Salud,2,ZB02020
+F,18-29,Buenos Aires,6,Campana,126,Buenos Aires,6,Campana,126,1/4/2021,Sputnik,Salud,1,I-250321
+F,40-49,Buenos Aires,6,Olavarria,595,Buenos Aires,6,Olavarria,595,8/1/2021,Sputnik,Salud,1,486081120R
+F,40-49,Buenos Aires,6,Olavarria,595,Buenos Aires,6,Olavarria,595,30/1/2021,Sputnik,Salud,2,ZB01820
+M,30-39,Buenos Aires,6,Chacabuco,210,Buenos Aires,6,Chacabuco,210,1/3/2021,COVISHIELD,Estrategico,1,4120Z023
+M,30-39,Buenos Aires,6,General Pueyrredon,357,Buenos Aires,6,General Pueyrredon,357,17/2/2021,Sputnik,Salud,1,I-031220
+M,60-69,Santiago del Estero,86,Capital,49,Santiago del Estero,86,Banda,35,18/3/2021,Sputnik,Salud,2,II-090221
+M,60-69,Catamarca,10,Santa Rosa,98,Catamarca,10,Capital,49,19/3/2021,Sputnik,>60,1,I-060121
+F,18-29,Entre Rios,30,Parana,84,Entre Rios,30,Parana,84,19/2/2021,Sputnik,Salud,1,I-080121
+F,18-29,Entre Rios,30,Parana,84,Entre Rios,30,Parana,84,18/3/2021,Sputnik,Salud,2,II-080221
+M,40-49,Entre Rios,30,Federal,35,Entre Rios,30,Federal,35,5/3/2021,COVISHIELD,Salud,1,4120Z023
+M,70-79,Entre Rios,30,Parana,84,Entre Rios,30,Parana,84,11/3/2021,Sputnik,>60,1,486010121
+M,50-59,Entre Rios,30,La Paz,70,Entre Rios,30,La Paz,70,10/2/2021,Sputnik,Salud,1,ZA00121
+M,50-59,Entre Rios,30,La Paz,70,Entre Rios,30,La Paz,70,3/3/2021,Sputnik,Salud,2,ZB01920
+F,60-69,Rio Negro,62,Aorquinco,56,Rio Negro,62,Aorquinco,56,1/4/2021,Sputnik,>60,1,I-240321
+F,30-39,San Juan,70,Santa Lucia,98,San Juan,70,Capital,28,22/2/2021,Sputnik,Salud,1,I-080121
+M,70-79,Corrientes,18,Saladas,126,Corrientes,18,Saladas,126,1/4/2021,COVISHIELD,>60,1,4120Z023
+F,30-39,Entre Rios,30,Tala,91,Entre Rios,30,Tala,91,17/3/2021,Sinopharm,Estrategico,1,2021010039
+F,30-39,Misiones,54,Iguazu,63,Misiones,54,Iguazu,63,26/2/2021,COVISHIELD,Estrategico,1,4120Z023
+M,30-39,San Luis,74,La Capital,56,CABA,2,COMUNA 2,2,26/2/2021,Sputnik,Salud,1,I-080121
+M,30-39,San Luis,74,La Capital,56,CABA,2,COMUNA 2,2,25/3/2021,Sputnik,Salud,2,II-080221
+M,60-69,San Juan,70,Capital,28,San Juan,70,Capital,28,21/1/2021,Sputnik,Salud,1,486081120R
+M,60-69,San Juan,70,Capital,28,San Juan,70,Capital,28,11/2/2021,Sputnik,Salud,2,ZB01720
+F,70-79,Buenos Aires,6,Lincoln,469,Buenos Aires,6,Lincoln,469,22/2/2021,COVISHIELD,>60,1,4120Z023
+F,40-49,Santa Fe,82,Rosario,84,Santa Fe,82,Rosario,84,6/3/2021,Sinopharm,Estrategico,1,2021010044
+F,30-39,Santa Fe,82,La Capital,63,Santa Fe,82,La Capital,63,19/1/2021,Sputnik,Salud,1,486081120R
+F,30-39,Santa Fe,82,La Capital,63,Santa Fe,82,La Capital,63,17/2/2021,Sputnik,Salud,2,ZB01920
+F,50-59,Salta,66,Capital,28,Salta,66,Capital,28,8/3/2021,Sinopharm,Salud,1,2021010036
+F,40-49,Buenos Aires,6,Vicente Lopez,861,Buenos Aires,6,General Rodriguez,364,13/1/2021,Sputnik,Salud,1,486081120R
+F,40-49,Buenos Aires,6,Vicente Lopez,861,Buenos Aires,6,General Rodriguez,364,5/2/2021,Sputnik,Salud,2,ZB02020
+M,40-49,Neuquen,58,Confluencia,35,Neuquen,58,Confluencia,35,8/1/2021,Sputnik,Salud,1,486081120R
+M,40-49,Neuquen,58,Confluencia,35,Neuquen,58,Confluencia,35,29/1/2021,Sputnik,Salud,2,ZB01820
+F,60-69,Formosa,34,Formosa,14,Formosa,34,Formosa,14,28/3/2021,Sputnik,>60,1,I-220321
+F,40-49,Entre Rios,30,Parana,84,Entre Rios,30,Parana,84,1/3/2021,Sputnik,Salud,1,I-080121
+F,40-49,Entre Rios,30,Parana,84,Entre Rios,30,Parana,84,26/3/2021,Sputnik,Salud,2,II-080221
+M,40-49,Entre Rios,30,Gualeguaychu,56,Entre Rios,30,Gualeguaychu,56,26/2/2021,Sputnik,Salud,1,I-080121
+M,40-49,Entre Rios,30,Gualeguaychu,56,Entre Rios,30,Gualeguaychu,56,22/3/2021,Sputnik,Salud,2,II-080221
+F,30-39,Entre Rios,30,Nogoya,77,Entre Rios,30,Nogoya,77,18/2/2021,Sputnik,Salud,1,I-080121
+F,30-39,Entre Rios,30,Nogoya,77,Entre Rios,30,Nogoya,77,11/3/2021,Sputnik,Salud,2,II-080221
+F,50-59,Tierra del Fuego,94,Ushuaia,14,Tierra del Fuego,94,Ushuaia,14,19/2/2021,Sputnik,Salud,1,I-090121
+F,50-59,Tierra del Fuego,94,Ushuaia,14,Tierra del Fuego,94,Ushuaia,14,12/3/2021,Sputnik,Salud,2,II-090221
+M,40-49,Entre Rios,30,Concordia,15,Entre Rios,30,Concordia,15,29/12/2020,Sputnik,Salud,1,486081120R
+F,30-39,San Juan,70,Sarmiento,105,San Juan,70,Capital,28,2/2/2021,Sputnik,Salud,2,ZB01720
+M,70-79,Entre Rios,30,Gualeguaychu,56,Entre Rios,30,Gualeguaychu,56,29/3/2021,Sputnik,>60,1,I-220321
+F,40-49,Salta,66,Capital,28,Salta,66,Capital,28,19/2/2021,Sputnik,Salud,1,I-080121
+F,40-49,Salta,66,Capital,28,Salta,66,Capital,28,26/3/2021,Sputnik,Salud,2,II-090221
+M,30-39,Salta,66,Guachipas,63,Salta,66,Guachipas,63,11/3/2021,Sinopharm,Estrategico,1,2021010043
+F,80-89,San Juan,70,Capital,28,San Juan,70,Capital,28,26/2/2021,COVISHIELD,>60,1,4120Z023
+F,70-79,Misiones,54,San Ignacio,98,Misiones,54,San Ignacio,98,23/2/2021,COVISHIELD,>60,1,4120Z023
+F,40-49,Buenos Aires,6,Florencio Varela,274,Buenos Aires,6,Florencio Varela,274,15/3/2021,Sinopharm,Estrategico,1,2021010048
+F,30-39,Buenos Aires,6,Lanus,434,Buenos Aires,6,Chascomus,217,25/2/2021,COVISHIELD,Salud,1,4120Z023
+F,90-99,Neuquen,58,Confluencia,35,Neuquen,58,Confluencia,35,17/2/2021,Sputnik,>60,1,I-080121
+F,90-99,Neuquen,58,Confluencia,35,Neuquen,58,Confluencia,35,15/3/2021,Sputnik,>60,2,II-090221
+F,70-79,Santiago del Estero,86,Capital,49,Santiago del Estero,86,Capital,49,10/3/2021,Sputnik,>60,1,I-070121
+M,80-89,Entre Rios,30,Federacion,28,Entre Rios,30,Federacion,28,22/1/2021,Sputnik,Salud,1,486081120R
+M,80-89,Entre Rios,30,Federacion,28,Entre Rios,30,Federacion,28,18/2/2021,Sputnik,Salud,2,ZB01720
+M,18-29,Santiago del Estero,86,Capital,49,Santiago del Estero,86,Capital,49,14/1/2021,Sputnik,Salud,1,486081120R
+M,18-29,Santiago del Estero,86,Capital,49,Santiago del Estero,86,Capital,49,4/2/2021,Sputnik,Salud,2,ZB01820
+F,50-59,Corrientes,18,Goya,70,Corrientes,18,Goya,70,22/1/2021,Sputnik,Salud,1,486081120R
+F,50-59,Corrientes,18,Goya,70,Corrientes,18,Goya,70,12/2/2021,Sputnik,Salud,2,ZB01720
+M,40-49,Entre Rios,30,Federacion,28,Entre Rios,30,Federacion,28,22/1/2021,Sputnik,Salud,1,486081120R
+M,40-49,Entre Rios,30,Federacion,28,Entre Rios,30,Federacion,28,19/2/2021,Sputnik,Salud,2,ZB01820
+F,40-49,Buenos Aires,6,La Matanza,427,Buenos Aires,6,Moron,568,9/2/2021,Sputnik,Salud,1,486081120R
+F,40-49,Buenos Aires,6,La Matanza,427,Buenos Aires,6,Moron,568,3/3/2021,Sputnik,Salud,2,ZB01920
+F,60-69,Buenos Aires,6,General Rodriguez,364,Buenos Aires,6,General Rodriguez,364,27/3/2021,Sputnik,>60,1,I-210321
+F,30-39,Mendoza,50,Las Heras,49,Mendoza,50,Capital,7,8/3/2021,Sputnik,Salud,1,I-080121
+M,50-59,Entre Rios,30,San Salvador,88,Entre Rios,30,San Salvador,88,14/1/2021,Sputnik,Salud,1,486081120R
+M,50-59,Entre Rios,30,San Salvador,88,Entre Rios,30,San Salvador,88,4/2/2021,Sputnik,Salud,2,ZB01820
+F,40-49,Buenos Aires,6,Moron,568,CABA,2,COMUNA 2,2,10/2/2021,Sputnik,Salud,1,I-031220
+F,40-49,Buenos Aires,6,Moron,568,CABA,2,COMUNA 2,2,10/3/2021,Sputnik,Salud,2,II-020121
+F,40-49,CABA,2,COMUNA 1,1,CABA,2,COMUNA 2,2,29/1/2021,Sputnik,Salud,1,486081120R
+M,40-49,Neuquen,58,Confluencia,35,Neuquen,58,Confluencia,35,18/2/2021,Sputnik,Salud,1,I-080121
+M,40-49,Rio Negro,62,Conesa,28,Rio Negro,62,Conesa,28,29/1/2021,Sputnik,Salud,2,ZB01820
+F,60-69,Neuquen,58,Confluencia,35,Neuquen,58,Confluencia,35,26/3/2021,Sputnik,>60,1,I-110121
+M,60-69,Rio Negro,62,Adolfo Alsina,7,Rio Negro,62,Adolfo Alsina,7,17/3/2021,Sputnik,>60,1,486010121
+F,40-49,Rio Negro,62,San Antonio,77,Rio Negro,62,San Antonio,77,14/1/2021,Sputnik,Salud,1,486081120R
+F,40-49,Rio Negro,62,San Antonio,77,Rio Negro,62,San Antonio,77,8/2/2021,Sputnik,Salud,2,ZB01820
+M,60-69,Salta,66,Capital,28,Salta,66,Capital,28,5/4/2021,Sputnik,>60,1,I-250321
+F,80-89,San Juan,70,Capital,28,San Juan,70,Capital,28,25/2/2021,COVISHIELD,>60,1,4120Z023
+F,70-79,San Juan,70,Sarmiento,105,San Juan,70,Sarmiento,105,31/3/2021,Sputnik,>60,1,I-220321
+F,30-39,Chaco,22,2 de Abril,39,Chaco,22,2 de Abril,39,10/3/2021,Sinopharm,Salud,1,2021010039
+M,40-49,Chubut,26,Rio Senguer,84,Chubut,26,Rio Senguer,84,26/3/2021,Sinopharm,Riesgo,1,2021010044
+M,70-79,Rio Negro,62,Adolfo Alsina,7,Rio Negro,62,Adolfo Alsina,7,25/3/2021,Sputnik,>60,1,I-110121
+M,70-79,Salta,66,Capital,28,Salta,66,Capital,28,9/3/2021,Sputnik,>60,1,486010121
+M,50-59,Corrientes,18,Ituzaingo,84,Corrientes,18,Ituzaingo,84,6/3/2021,Sinopharm,Estrategico,1,2021010039
+F,80-89,Salta,66,General Guemes,49,Salta,66,General Guemes,49,2/3/2021,COVISHIELD,>60,1,4120Z023
+M,70-79,Santa Cruz,78,Corpen Aike,7,Santa Cruz,78,Corpen Aike,7,31/3/2021,Sputnik,>60,1,I-210321
+M,80-89,Rio Negro,62,Pichi Mahuida,63,Rio Negro,62,Pichi Mahuida,63,20/3/2021,Sputnik,>60,1,I-080121
+F,70-79,Neuquen,58,Confluencia,35,Neuquen,58,Confluencia,35,23/3/2021,Sputnik,>60,1,I-110121
+M,70-79,Salta,66,Capital,28,Salta,66,Capital,28,19/3/2021,Sputnik,>60,1,I-080121
+F,50-59,Buenos Aires,6,La Matanza,427,Buenos Aires,6,La Matanza,427,12/3/2021,Sinopharm,Riesgo,1,2021010048
+M,60-69,Chaco,22,General Guemes,63,Chaco,22,San Fernando,140,17/3/2021,Sputnik,>60,1,486010121
+F,70-79,Salta,66,Metan,112,Salta,66,Metan,112,23/3/2021,Sputnik,>60,1,II-080221
+F,50-59,Buenos Aires,6,Florencio Varela,274,Buenos Aires,6,Florencio Varela,274,4/3/2021,Sinopharm,Estrategico,1,2021010036
+F,70-79,La Pampa,42,Maraco,105,La Pampa,42,Maraco,105,31/3/2021,Sputnik,>60,1,I-240321
+F,60-69,Neuquen,58,Añelo,14,Neuquen,58,Añelo,14,30/3/2021,Sputnik,>60,1,I-240321
+M,70-79,San Juan,70,Chimbas,42,San Juan,70,Chimbas,42,29/3/2021,Sputnik,>60,1,I-210321
+F,70-79,Salta,66,Chicoana,42,Salta,66,Chicoana,42,23/3/2021,Sputnik,>60,1,I-110121
+M,30-39,CABA,2,COMUNA 1,1,CABA,2,COMUNA 14,14,20/2/2021,Sputnik,Salud,1,I-080121
+M,30-39,CABA,2,COMUNA 1,1,CABA,2,COMUNA 14,14,17/3/2021,Sputnik,Salud,2,II-080221
+M,40-49,Rio Negro,62,Adolfo Alsina,7,Rio Negro,62,Adolfo Alsina,7,17/3/2021,Sinopharm,Estrategico,1,2021010044
+M,40-49,Santiago del Estero,86,Banda,35,Santiago del Estero,86,Rio Hondo,147,4/3/2021,Sinopharm,Estrategico,1,2021010039
+S.I.,80-89,Entre Rios,30,San Salvador,88,Entre Rios,30,San Salvador,88,10/3/2021,COVISHIELD,>60,1,4120Z023
+F,70-79,Buenos Aires,6,San Miguel,760,Buenos Aires,6,San Miguel,760,30/3/2021,Sputnik,>60,1,I-210321
+F,80-89,Entre Rios,30,Parana,84,Entre Rios,30,Parana,84,18/3/2021,Sputnik,>60,1,I-060121
+F,70-79,Mendoza,50,Guaymallen,28,Mendoza,50,Guaymallen,28,10/3/2021,Sputnik,>60,1,486010121
+F,40-49,CABA,2,COMUNA 1,1,CABA,2,COMUNA 4,4,10/1/2021,Sputnik,Salud,1,486081120R
+M,40-49,Neuquen,58,Confluencia,35,Neuquen,58,Confluencia,35,15/3/2021,Sputnik,Salud,2,II-090221
+F,50-59,Buenos Aires,6,La Matanza,427,Buenos Aires,6,Moron,568,17/2/2021,Sputnik,Salud,1,I-031220
+F,50-59,Buenos Aires,6,La Matanza,427,Buenos Aires,6,Moron,568,10/3/2021,Sputnik,Salud,2,ZB00621
+M,40-49,Entre Rios,30,Diamante,21,Entre Rios,30,Diamante,21,14/1/2021,Sputnik,Salud,1,486081120R
+M,40-49,Entre Rios,30,Diamante,21,Entre Rios,30,Diamante,21,5/2/2021,Sputnik,Salud,2,ZB01820
+M,80-89,San Juan,70,Capital,28,San Juan,70,Capital,28,3/3/2021,Sputnik,Salud,1,I-080121
+M,80-89,San Juan,70,Capital,28,San Juan,70,Pocito,70,26/3/2021,Sputnik,Salud,2,II-090221
+M,40-49,Jujuy,38,El Carmen,14,Jujuy,38,Dr. Manuel Belgrano,21,16/3/2021,Sinopharm,Salud,1,2021010039
+F,30-39,Buenos Aires,6,Moron,568,Buenos Aires,6,Moron,568,1/3/2021,COVISHIELD,Salud,1,4120Z023
+F,40-49,CABA,2,COMUNA 1,1,Buenos Aires,6,Moron,568,15/1/2021,Sputnik,Salud,1,486081120R
+F,40-49,CABA,2,COMUNA 1,1,Buenos Aires,6,Moron,568,12/2/2021,Sputnik,Salud,2,ZB02020
+F,30-39,San Juan,70,Pocito,70,San Juan,70,Capital,28,4/1/2021,Sputnik,Salud,1,486081120R
+F,30-39,San Juan,70,Pocito,70,San Juan,70,Capital,28,1/2/2021,Sputnik,Salud,2,ZB01720
+F,50-59,Chaco,22,Comandante Fernandez,21,Chaco,22,Comandante Fernandez,21,2/1/2021,Sputnik,Salud,1,486081120R
+F,50-59,Chaco,22,Comandante Fernandez,21,Chaco,22,Comandante Fernandez,21,23/1/2021,Sputnik,Salud,2,ZB01720
+F,40-49,Entre Rios,30,Parana,84,Entre Rios,30,Parana,84,3/3/2021,Sputnik,Salud,1,I-080121
+F,40-49,Entre Rios,30,Parana,84,Entre Rios,30,Parana,84,26/3/2021,Sputnik,Salud,2,II-080221
+F,40-49,La Pampa,42,Toay,140,La Pampa,42,Toay,140,5/2/2021,Sputnik,Salud,1,ZA00121
+F,30-39,Salta,66,Capital,28,Salta,66,Capital,28,4/1/2021,Sputnik,Salud,1,486081120R
+F,30-39,Salta,66,Capital,28,Salta,66,Capital,28,26/1/2021,Sputnik,Salud,2,ZB01720
+M,70-79,Corrientes,18,Capital,21,Corrientes,18,Capital,21,13/3/2021,Sputnik,>60,1,486010121
+F,18-29,San Juan,70,Rivadavia,84,San Juan,70,Capital,28,17/3/2021,Sinopharm,Estrategico,1,2021010044
+M,70-79,Neuquen,58,Confluencia,35,Neuquen,58,Confluencia,35,23/2/2021,COVISHIELD,>60,1,4120Z023
+M,18-29,Neuquen,58,Zapala,112,Neuquen,58,Confluencia,35,14/3/2021,Sinopharm,Estrategico,1,2021010038
+F,50-59,San Juan,70,Chimbas,42,San Juan,70,Capital,28,26/2/2021,COVISHIELD,Estrategico,1,4120Z023
+M,70-79,Neuquen,58,Confluencia,35,Neuquen,58,Confluencia,35,9/3/2021,Sputnik,>60,1,ZA00921
+F,40-49,Neuquen,58,Confluencia,35,Neuquen,58,Confluencia,35,9/3/2021,Sinopharm,Riesgo,1,2021010018
+F,50-59,Rio Negro,62,Avellaneda,14,Rio Negro,62,Avellaneda,14,5/3/2021,Sinopharm,Estrategico,1,2021010036
+F,50-59,Salta,66,La Candelaria,84,Salta,66,La Candelaria,84,19/3/2021,Sinopharm,Estrategico,1,2021010043
+M,70-79,Entre Rios,30,Parana,84,Entre Rios,30,Parana,84,4/3/2021,COVISHIELD,>60,1,4120Z023
+F,40-49,San Juan,70,Chimbas,42,San Juan,70,Capital,28,15/3/2021,Sinopharm,Estrategico,1,2021010036
+F,50-59,Chaco,22,Tapenaga,161,Chaco,22,Tapenaga,161,18/3/2021,Sinopharm,Salud,1,2021010044
+M,18-29,Buenos Aires,6,Lomas de Zamora,490,Buenos Aires,6,Vicente Lopez,861,30/3/2021,Sputnik,Salud,1,I-120121
+F,80-89,Neuquen,58,Confluencia,35,Neuquen,58,Confluencia,35,16/3/2021,Sputnik,>60,2,II-090221
+F,30-39,Entre Rios,30,Parana,84,Entre Rios,30,Parana,84,22/3/2021,Sinopharm,Estrategico,1,2021010044
+F,80-89,Entre Rios,30,La Paz,70,Entre Rios,30,La Paz,70,3/3/2021,COVISHIELD,>60,1,4120Z023
+F,40-49,CABA,2,COMUNA 1,1,CABA,2,COMUNA 4,4,31/1/2021,Sputnik,Salud,2,ZB01720
+F,80-89,Buenos Aires,6,Vicente Lopez,861,Buenos Aires,6,Vicente Lopez,861,15/3/2021,Sputnik,>60,1,I-120121
+F,70-79,Buenos Aires,6,Pilar,638,Buenos Aires,6,Pilar,638,29/3/2021,Sputnik,>60,1,I-210321
+M,70-79,Entre Rios,30,Gualeguaychu,56,Entre Rios,30,Gualeguaychu,56,15/3/2021,Sputnik,>60,1,486010121
+M,70-79,Entre Rios,30,Gualeguaychu,56,Entre Rios,30,Gualeguaychu,56,5/4/2021,Sinopharm,>60,1,2021010044
+M,80-89,Entre Rios,30,Uruguay,98,Entre Rios,30,Uruguay,98,17/3/2021,Sputnik,>60,1,486010121
+F,60-69,Salta,66,Capital,28,Salta,66,Capital,28,1/4/2021,Sputnik,>60,1,I-220321
+F,40-49,Buenos Aires,6,Mar Chiquita,518,Buenos Aires,6,Mar Chiquita,518,16/1/2021,Sputnik,Salud,1,486081120R
+F,40-49,Buenos Aires,6,Mar Chiquita,518,Buenos Aires,6,Mar Chiquita,518,6/2/2021,Sputnik,Salud,2,ZB01820
+F,70-79,Rio Negro,62,San Antonio,77,Rio Negro,62,San Antonio,77,31/3/2021,Sputnik,>60,1,I-240321
+F,60-69,Santa Fe,82,Las Colonias,70,Santa Fe,82,La Capital,63,12/2/2021,Sputnik,Salud,1,ZA00121
+F,60-69,Santa Fe,82,Las Colonias,70,Santa Fe,82,La Capital,63,17/3/2021,Sputnik,Salud,2,II-090221
+F,50-59,Buenos Aires,6,Bahia Blanca,56,Buenos Aires,6,Bahia Blanca,56,12/1/2021,Sputnik,Salud,1,486081120R
+F,50-59,Buenos Aires,6,Bahia Blanca,56,Buenos Aires,6,Bahia Blanca,56,5/2/2021,Sputnik,Salud,2,ZB01720
+M,80-89,Buenos Aires,6,General Paz,343,Buenos Aires,6,General Paz,343,15/3/2021,Sputnik,>60,1,I-140121
+F,80-89,Buenos Aires,6,La Plata,441,Buenos Aires,6,La Plata,441,25/3/2021,Sputnik,>60,1,I-110121
+M,70-79,Mendoza,50,Capital,7,Mendoza,50,Capital,7,31/3/2021,Sputnik,>60,1,I-220321
+F,40-49,Buenos Aires,6,Tigre,805,Buenos Aires,6,Tigre,805,7/1/2021,Sputnik,Salud,1,486081120R
+F,40-49,Buenos Aires,6,Tigre,805,Buenos Aires,6,Tigre,805,11/2/2021,Sputnik,Salud,2,ZB02020
+M,50-59,CABA,2,COMUNA 1,1,CABA,2,COMUNA 4,4,29/3/2021,Sputnik,Salud,1,I-210321
+F,60-69,Buenos Aires,6,San Fernando,749,Buenos Aires,6,San Fernando,749,15/3/2021,Sputnik,Salud,1,I-120121
+F,60-69,CABA,2,COMUNA 1,1,CABA,2,COMUNA 4,4,21/3/2021,Sputnik,Salud,1,I-110121
+F,30-39,CABA,2,COMUNA 1,1,CABA,2,COMUNA 2,2,18/2/2021,Sputnik,Salud,1,I-080121
+F,30-39,CABA,2,COMUNA 1,1,CABA,2,COMUNA 2,2,19/3/2021,Sputnik,Salud,2,II-080221
+M,50-59,Buenos Aires,6,General San Martin,371,CABA,2,COMUNA 11,11,29/12/2020,Sputnik,Salud,1,486081120R
+M,50-59,Buenos Aires,6,General San Martin,371,CABA,2,COMUNA 11,11,19/1/2021,Sputnik,Salud,2,ZB01720
+F,70-79,Misiones,54,Capital,28,Misiones,54,Capital,28,12/3/2021,Sputnik,>60,1,I-080121
+F,30-39,Corrientes,18,Monte Caseros,112,CABA,2,COMUNA 4,4,15/1/2021,Sputnik,Salud,1,486081120R
+F,30-39,Corrientes,18,Monte Caseros,112,CABA,2,COMUNA 4,4,5/2/2021,Sputnik,Salud,2,ZB01920
+F,40-49,Santa Fe,82,Rosario,84,Santa Fe,82,Rosario,84,14/1/2021,Sputnik,Salud,1,486081120R
+F,40-49,Santa Fe,82,Rosario,84,Santa Fe,82,Rosario,84,4/2/2021,Sputnik,Salud,2,ZB01720
+M,50-59,Tucuman,90,Capital,84,Tucuman,90,Capital,84,7/1/2021,Sputnik,Salud,1,486081120R
+M,50-59,Tucuman,90,Capital,84,Tucuman,90,Capital,84,2/2/2021,Sputnik,Salud,2,ZB01820
+F,50-59,Buenos Aires,6,Patagones,602,Buenos Aires,6,Patagones,602,8/1/2021,Sputnik,Salud,1,486081120R
+M,70-79,Formosa,34,Pilcomayo,49,Formosa,34,Pilcomayo,49,22/2/2021,Sputnik,>60,1,I-080121
+M,70-79,Formosa,34,Pilcomayo,49,Formosa,34,Pilcomayo,49,15/3/2021,Sputnik,>60,2,II-080221
+F,70-79,Corrientes,18,Capital,21,Corrientes,18,Capital,21,23/2/2021,Sputnik,>60,1,I-080121
+F,70-79,Corrientes,18,Capital,21,Corrientes,18,Capital,21,29/3/2021,Sputnik,>60,2,II-080221
+M,60-69,Buenos Aires,6,San Vicente,778,Buenos Aires,6,San Vicente,778,30/3/2021,Sputnik,>60,1,I-210321
+F,70-79,Cordoba,14,Calamuchita,7,Cordoba,14,Calamuchita,7,30/3/2021,Sputnik,>60,1,I-240321
+F,80-89,Buenos Aires,6,Tigre,805,Buenos Aires,6,Tigre,805,31/3/2021,Sputnik,>60,1,I-210321
+F,70-79,CABA,2,COMUNA 1,1,CABA,2,COMUNA 4,4,1/4/2021,AstraZeneca,>60,1,CTMAV501
+F,80-89,Buenos Aires,6,Ezeiza,270,Buenos Aires,6,Ezeiza,270,26/3/2021,Sputnik,>60,1,I-110121
+F,70-79,Mendoza,50,Rivadavia,84,Mendoza,50,Rivadavia,84,26/3/2021,COVISHIELD,>60,1,4120Z023
+F,70-79,Buenos Aires,6,General La Madrid,322,Buenos Aires,6,General La Madrid,322,20/2/2021,Sputnik,>60,1,I-080121
+F,70-79,Buenos Aires,6,General La Madrid,322,Buenos Aires,6,General La Madrid,322,13/3/2021,Sputnik,>60,2,ZB02020
+M,18-29,Misiones,54,Candelaria,21,Misiones,54,Capital,28,5/3/2021,Sinopharm,Salud,1,2021010044
+F,80-89,Cordoba,14,Punilla,91,Buenos Aires,6,Jose C. Paz,412,24/2/2021,COVISHIELD,>60,1,4120Z023
+F,40-49,Salta,66,Cerrillos,35,Salta,66,Capital,28,5/3/2021,Sinopharm,Estrategico,1,2021010036
+F,18-29,Buenos Aires,6,Campana,126,Buenos Aires,6,Campana,126,12/3/2021,Sputnik,Riesgo,1,I-140121
+M,70-79,Entre Rios,30,Parana,84,Entre Rios,30,Parana,84,25/3/2021,Sputnik,>60,1,I-210321
+M,60-69,La Rioja,46,Capital,14,La Rioja,46,Capital,14,17/3/2021,Sputnik,>60,1,486010121
+F,60-69,Buenos Aires,6,Berisso,98,Buenos Aires,6,Berisso,98,31/3/2021,Sputnik,>60,1,I-220321
+F,60-69,Buenos Aires,6,Berisso,98,Buenos Aires,6,Berisso,98,22/3/2021,Sputnik,>60,1,I-210321
+M,60-69,Misiones,54,Capital,28,Misiones,54,Capital,28,11/3/2021,Sputnik,>60,1,486010121
+F,60-69,La Rioja,46,Chamical,35,La Rioja,46,Chamical,35,29/3/2021,Sputnik,>60,1,I-220321
+F,60-69,Buenos Aires,6,Berisso,98,Buenos Aires,6,Berisso,98,2/4/2021,Sputnik,>60,1,I-220321
+M,60-69,Cordoba,14,Capital,14,Cordoba,14,Capital,14,5/4/2021,Sinopharm,>60,1,2021030203
+M,60-69,Buenos Aires,6,Saladillo,707,Buenos Aires,6,Saladillo,707,23/2/2021,Sputnik,>60,1,I-080121
+M,60-69,Buenos Aires,6,Saladillo,707,Buenos Aires,6,Saladillo,707,19/3/2021,Sputnik,>60,2,II-100221
+F,60-69,Buenos Aires,6,Berisso,98,Buenos Aires,6,Berisso,98,22/3/2021,Sputnik,>60,1,I-110121
+M,60-69,Buenos Aires,6,Berisso,98,Buenos Aires,6,Berisso,98,5/4/2021,Sinopharm,>60,1,2021010048
+F,60-69,Buenos Aires,6,Berisso,98,Buenos Aires,6,Berisso,98,29/3/2021,Sputnik,>60,1,I-220321
+F,60-69,Cordoba,14,Capital,14,Cordoba,14,Capital,14,1/4/2021,AstraZeneca,>60,1,CTMAV501
+F,60-69,Corrientes,18,Esquina,49,Corrientes,18,Esquina,49,24/3/2021,Sputnik,>60,1,I-110121
+F,70-79,Buenos Aires,6,Berisso,98,Buenos Aires,6,Berisso,98,29/3/2021,Sputnik,>60,1,I-210321
+F,60-69,La Rioja,46,Capital,14,La Rioja,46,Capital,14,26/3/2021,Sputnik,>60,1,I-110121
+F,60-69,Cordoba,14,Capital,14,Cordoba,14,Capital,14,3/4/2021,Sputnik,>60,1,I-250321
+M,80-89,Buenos Aires,6,Berisso,98,Buenos Aires,6,Berisso,98,25/3/2021,Sputnik,>60,2,II-100221
+F,80-89,Santa Fe,82,Rosario,84,Santa Fe,82,Rosario,84,26/3/2021,Sputnik,>60,1,I-210321
+F,80-89,Cordoba,14,Rio Cuarto,98,Cordoba,14,Rio Cuarto,98,30/3/2021,Sputnik,>60,1,I-240321
+F,70-79,Buenos Aires,6,Berisso,98,Buenos Aires,6,Berisso,98,1/4/2021,Sputnik,>60,1,I-220321
+F,70-79,Santa Fe,82,Rosario,84,Santa Fe,82,Rosario,84,3/4/2021,Sputnik,>60,1,I-240321
+F,70-79,Buenos Aires,6,Berazategui,91,Buenos Aires,6,Berazategui,91,28/3/2021,Sputnik,>60,1,I-210321
+M,70-79,Buenos Aires,6,Berisso,98,Buenos Aires,6,Berisso,98,16/3/2021,Sputnik,>60,1,I-110121
+F,80-89,Misiones,54,Capital,28,Misiones,54,Capital,28,24/2/2021,COVISHIELD,>60,1,4120Z023
+F,80-89,Corrientes,18,Lavalle,91,Corrientes,18,Lavalle,91,1/4/2021,Sputnik,>60,1,I-240321
+M,70-79,Buenos Aires,6,Berazategui,91,Buenos Aires,6,Carmen de Areco,161,15/3/2021,COVISHIELD,>60,1,4120Z023
+F,70-79,Salta,66,Oran,126,Salta,66,Oran,126,25/2/2021,COVISHIELD,>60,1,4120Z023
+M,80-89,Buenos Aires,6,Florencio Varela,274,Buenos Aires,6,Florencio Varela,274,18/3/2021,Sputnik,>60,1,I-120121
+F,80-89,Buenos Aires,6,Tres de Febrero,840,Buenos Aires,6,Tres de Febrero,840,26/3/2021,Sputnik,>60,1,I-110121
+F,70-79,Santiago del Estero,86,Robles,161,Santiago del Estero,86,Robles,161,31/3/2021,Sputnik,>60,1,I-250321
+F,80-89,Cordoba,14,Union,182,Cordoba,14,Union,182,30/3/2021,Sputnik,>60,1,I-240321
+M,80-89,Buenos Aires,6,La Matanza,427,Buenos Aires,6,La Matanza,427,16/3/2021,Sputnik,>60,1,I-070121
+M,70-79,Buenos Aires,6,Berisso,98,Buenos Aires,6,Berisso,98,20/3/2021,Sputnik,>60,1,I-110121
+M,70-79,Santa Fe,82,9 de Julio,77,Santa Fe,82,9 de Julio,77,30/3/2021,Sputnik,>60,1,I-220321
+M,80-89,Mendoza,50,Capital,7,Mendoza,50,Capital,7,30/3/2021,Sputnik,>60,1,I-220321
+M,70-79,Tucuman,90,Cruz Alta,14,Tucuman,90,Cruz Alta,14,15/3/2021,Sputnik,>60,1,I-080121
+F,70-79,Formosa,34,Pirane,56,Formosa,34,Formosa,14,28/3/2021,Sputnik,>60,1,I-060121
+M,80-89,Tucuman,90,Chicligasta,21,Tucuman,90,Chicligasta,21,25/2/2021,COVISHIELD,>60,1,4120Z023
+F,70-79,Formosa,34,Pirane,56,Formosa,34,Pirane,56,23/3/2021,Sputnik,Salud,1,I-060121
+M,70-79,Buenos Aires,6,Berisso,98,Buenos Aires,6,Berisso,98,16/3/2021,Sputnik,>60,1,I-110121
+M,80-89,Tucuman,90,Cruz Alta,14,Tucuman,90,Cruz Alta,14,4/3/2021,COVISHIELD,>60,1,4120Z023
+M,70-79,Cordoba,14,Tercero Arriba,161,Cordoba,14,Tercero Arriba,161,16/3/2021,Sputnik,>60,1,I-140121
+F,60-69,Cordoba,14,Calamuchita,7,Cordoba,14,Calamuchita,7,1/4/2021,AstraZeneca,>60,1,CTMAV501
+F,90-99,Santiago del Estero,86,Moreno,119,Santiago del Estero,86,Moreno,119,29/3/2021,Sputnik,>60,1,I-080121
+F,90-99,Cordoba,14,San Justo,140,Cordoba,14,San Justo,140,10/3/2021,Sputnik,>60,1,I-140121
+M,80-89,Misiones,54,Guarani,56,Misiones,54,Guarani,56,23/2/2021,COVISHIELD,>60,1,4120Z023
+M,70-79,San Luis,74,Chacabuco,28,San Luis,74,Chacabuco,28,26/2/2021,COVISHIELD,>60,1,4120Z023
+F,70-79,Formosa,34,Pirane,56,Formosa,34,Formosa,14,31/3/2021,Sputnik,>60,1,I-240321
+M,70-79,Buenos Aires,6,Berisso,98,Buenos Aires,6,Berisso,98,26/3/2021,Sputnik,>60,1,I-210321
+M,80-89,Cordoba,14,Capital,14,Cordoba,14,Capital,14,16/3/2021,Sputnik,>60,1,I-080121
+M,70-79,San Luis,74,La Capital,56,San Luis,74,La Capital,56,1/3/2021,COVISHIELD,>60,1,4120Z023
+F,70-79,Cordoba,14,Tercero Arriba,161,Cordoba,14,Tercero Arriba,161,30/3/2021,Sputnik,>60,1,I-240321
+F,70-79,Buenos Aires,6,Florencio Varela,274,Buenos Aires,6,Berazategui,91,30/3/2021,Sputnik,>60,1,I-210321
+F,70-79,Buenos Aires,6,Avellaneda,35,Buenos Aires,6,Avellaneda,35,26/3/2021,Sputnik,>60,1,I-210321
+F,80-89,Mendoza,50,Las Heras,49,Mendoza,50,Las Heras,49,5/4/2021,Sputnik,>60,1,I-250321
+F,70-79,Santa Fe,82,9 de Julio,77,Santa Fe,82,9 de Julio,77,25/3/2021,Sputnik,>60,1,I-080121
+F,80-89,Tucuman,90,Chicligasta,21,Tucuman,90,Chicligasta,21,26/2/2021,COVISHIELD,>60,1,4120Z023
+M,40-49,Buenos Aires,6,Berazategui,91,Buenos Aires,6,Berazategui,91,11/3/2021,Sinopharm,Riesgo,1,2021010048
+M,40-49,Formosa,34,Formosa,14,Formosa,34,Formosa,14,8/3/2021,Sinopharm,Salud,1,2021010039
+F,40-49,Neuquen,58,Confluencia,35,Neuquen,58,Confluencia,35,8/3/2021,Sinopharm,Estrategico,1,2021010044
+M,70-79,Corrientes,18,Esquina,49,Corrientes,18,Esquina,49,23/3/2021,Sputnik,>60,1,I-110121
+F,70-79,Salta,66,Capital,28,Salta,66,Capital,28,18/3/2021,Sputnik,>60,1,486010121
+M,40-49,Chaco,22,Bermejo,14,Chaco,22,San Fernando,140,15/1/2021,Sputnik,Salud,1,486081120R
+M,40-49,Chaco,22,Bermejo,14,Chaco,22,San Fernando,140,5/2/2021,Sputnik,Salud,2,ZB01720
+F,70-79,Salta,66,Metan,112,Salta,66,Metan,112,26/3/2021,Sputnik,>60,1,I-110121
+S.I.,40-49,Chaco,22,San Fernando,140,Chaco,22,San Fernando,140,9/3/2021,Sinopharm,Estrategico,1,2021010039
+S.I.,90-99,Jujuy,38,San Pedro,63,Jujuy,38,San Pedro,63,17/3/2021,COVISHIELD,>60,1,4120Z023
+S.I.,70-79,Chaco,22,San Fernando,140,Chaco,22,San Fernando,140,15/3/2021,Sputnik,>60,1,486010121
+F,30-39,Salta,66,Capital,28,Salta,66,Capital,28,9/3/2021,Sinopharm,Estrategico,1,2021010036
+F,70-79,Neuquen,58,Zapala,112,Neuquen,58,Zapala,112,17/3/2021,Sputnik,>60,1,I-080121
+F,80-89,Neuquen,58,Confluencia,35,Neuquen,58,Confluencia,35,5/2/2021,Sputnik,>60,1,ZA00121
+M,60-69,Neuquen,58,Zapala,112,Neuquen,58,Zapala,112,30/3/2021,Sputnik,>60,1,I-220321
+F,30-39,Santa Fe,82,San Martin,126,Santa Fe,82,San Martin,126,18/2/2021,Sputnik,Salud,1,I-080121
+F,30-39,Santa Fe,82,San Martin,126,Santa Fe,82,San Martin,126,11/3/2021,Sputnik,Salud,2,II-090221
+F,40-49,Santa Fe,82,General Obligado,49,Santa Fe,82,General Obligado,49,12/3/2021,Sinopharm,Estrategico,1,2021010043
+M,70-79,Salta,66,Capital,28,Salta,66,Capital,28,19/2/2021,Sputnik,>60,1,I-080121
+M,70-79,Salta,66,Capital,28,Salta,66,Capital,28,12/3/2021,Sputnik,>60,2,II-090221
+F,50-59,Buenos Aires,6,La Matanza,427,Buenos Aires,6,La Matanza,427,10/3/2021,Sinopharm,Riesgo,1,2021010048
+F,70-79,Corrientes,18,Capital,21,Corrientes,18,Capital,21,17/3/2021,Sputnik,>60,1,486010121
+F,70-79,San Juan,70,Santa Lucia,98,San Juan,70,Santa Lucia,98,18/3/2021,Sputnik,>60,1,ZA00921
+F,60-69,Buenos Aires,6,Magdalena,505,Buenos Aires,6,Magdalena,505,21/2/2021,Sputnik,>60,1,I-080121
+F,60-69,Buenos Aires,6,Magdalena,505,Buenos Aires,6,Magdalena,505,18/3/2021,Sputnik,>60,2,II-100221
+F,40-49,Buenos Aires,6,Saladillo,707,Buenos Aires,6,Saladillo,707,13/1/2021,Sputnik,Salud,1,486081120R
+F,40-49,Buenos Aires,6,Saladillo,707,Buenos Aires,6,Saladillo,707,11/2/2021,Sputnik,Salud,2,ZB02020
+F,40-49,Neuquen,58,Confluencia,35,Neuquen,58,Confluencia,35,4/3/2021,Sinopharm,Salud,1,2021010018
+F,30-39,Rio Negro,62,General Roca,42,Rio Negro,62,General Roca,42,4/2/2021,Sputnik,Salud,1,za00121
+F,30-39,Rio Negro,62,General Roca,42,Rio Negro,62,General Roca,42,26/2/2021,Sputnik,Salud,2,II-020121
+F,18-29,Buenos Aires,6,Lomas de Zamora,490,Buenos Aires,6,Lomas de Zamora,490,3/3/2021,Sputnik,Salud,1,I-080121
+F,18-29,Buenos Aires,6,Lomas de Zamora,490,Buenos Aires,6,Lomas de Zamora,490,25/3/2021,Sputnik,Salud,2,II-100221
+F,30-39,CABA,2,COMUNA 1,1,CABA,2,COMUNA 14,14,24/2/2021,Sputnik,Salud,1,I-080121
+F,30-39,CABA,2,COMUNA 1,1,CABA,2,COMUNA 14,14,17/3/2021,Sputnik,Salud,2,II-080221
+M,60-69,Buenos Aires,6,La Plata,441,Buenos Aires,6,La Plata,441,19/3/2021,Sputnik,>60,1,I-110121
+M,30-39,CABA,2,COMUNA 1,1,CABA,2,COMUNA 10,10,7/1/2021,Sputnik,Salud,1,486081120R
+M,30-39,CABA,2,COMUNA 1,1,CABA,2,COMUNA 10,10,28/1/2021,Sputnik,Salud,2,ZB01720
+M,60-69,Buenos Aires,6,Punta Indio,655,Buenos Aires,6,Punta Indio,655,15/3/2021,Sputnik,>60,1,I-120121
+F,40-49,Buenos Aires,6,General Pueyrredon,357,Buenos Aires,6,General Pueyrredon,357,5/3/2021,Sinopharm,Estrategico,1,2021010036
+M,30-39,Tucuman,90,Capital,84,Tucuman,90,Capital,84,19/2/2021,Sputnik,Salud,1,I-080121
+M,80-89,Buenos Aires,6,La Plata,441,Buenos Aires,6,La Plata,441,16/3/2021,Sputnik,>60,1,I-120121
+F,70-79,Buenos Aires,6,Almirante Brown,28,Buenos Aires,6,Almirante Brown,28,1/4/2021,Sputnik,>60,1,I-210321
+F,80-89,Entre Rios,30,Concordia,15,Entre Rios,30,Concordia,15,10/3/2021,Sputnik,>60,1,486010121
+S.I.,70-79,San Juan,70,Capital,28,San Juan,70,Capital,28,19/3/2021,Sputnik,>60,1,ZA00921
+M,70-79,Tucuman,90,Capital,84,Tucuman,90,Capital,84,24/2/2021,Sputnik,>60,1,ZA00121
+M,70-79,Tucuman,90,Capital,84,Tucuman,90,Capital,84,17/3/2021,Sputnik,>60,2,II-100221
+F,30-39,Neuquen,58,Confluencia,35,Neuquen,58,Confluencia,35,7/3/2021,Sinopharm,Estrategico,1,2021010018
+M,30-39,CABA,2,COMUNA 1,1,CABA,2,COMUNA 4,4,2/2/2021,Sputnik,Salud,1,ZA00121
+M,30-39,CABA,2,COMUNA 1,1,CABA,2,COMUNA 4,4,23/2/2021,Sputnik,Salud,2,ZB01920
+F,30-39,CABA,2,COMUNA 1,1,CABA,2,COMUNA 4,4,29/3/2021,Sputnik,Salud,1,I-220321
+F,70-79,Tucuman,90,Yerba Buena,119,Tucuman,90,Yerba Buena,119,18/2/2021,Sputnik,>60,1,I-080121
+F,70-79,Tucuman,90,Yerba Buena,119,Tucuman,90,Yerba Buena,119,11/3/2021,Sputnik,>60,2,II-100221
+F,18-29,Buenos Aires,6,La Costa,420,Buenos Aires,6,La Costa,420,4/3/2021,Sinopharm,Salud,1,2021010036
+M,50-59,Neuquen,58,Confluencia,35,Neuquen,58,Confluencia,35,3/2/2021,Sputnik,Salud,1,ZA00121
+M,70-79,San Juan,70,Capital,28,San Juan,70,Capital,28,29/3/2021,Sputnik,>60,1,I-210321
+F,70-79,San Juan,70,Rivadavia,84,San Juan,70,Capital,28,26/3/2021,Sputnik,>60,1,I-210321
+S.I.,30-39,Catamarca,10,Capital,49,Catamarca,10,Capital,49,5/3/2021,Sinopharm,Estrategico,1,2021010036
+M,70-79,Buenos Aires,6,Avellaneda,35,Buenos Aires,6,Avellaneda,35,20/3/2021,Sputnik,>60,2,II-100221
+F,70-79,Salta,66,Capital,28,Salta,66,Capital,28,26/3/2021,Sputnik,>60,1,I-080121
+F,60-69,Buenos Aires,6,Moron,568,Buenos Aires,6,Moron,568,24/2/2021,Sputnik,Salud,1,I-031220
+F,60-69,Buenos Aires,6,Moron,568,Buenos Aires,6,Moron,568,17/3/2021,Sputnik,Salud,2,ZB00621
+F,50-59,Buenos Aires,6,Lanus,434,Buenos Aires,6,Lanus,434,19/3/2021,Sinopharm,Estrategico,1,2021010048
+M,70-79,Chaco,22,San Fernando,140,Chaco,22,San Fernando,140,3/4/2021,Sputnik,>60,1,I-240321
+M,90-99,Jujuy,38,San Pedro,63,Jujuy,38,San Pedro,63,20/3/2021,Sputnik,>60,1,486010121
+F,70-79,Cordoba,14,Colon,21,Cordoba,14,Colon,21,3/4/2021,Sputnik,>60,1,I-250321
+M,40-49,Buenos Aires,6,Berazategui,91,Buenos Aires,6,Berazategui,91,10/3/2021,Sinopharm,Riesgo,1,2021010036
+M,40-49,Buenos Aires,6,Berazategui,91,Buenos Aires,6,Berazategui,91,10/3/2021,Sinopharm,Estrategico,1,2021010048
+M,30-39,Formosa,34,Formosa,14,Formosa,34,Formosa,14,9/3/2021,Sinopharm,Estrategico,1,2021010044
+M,90-99,Buenos Aires,6,Berisso,98,Buenos Aires,6,Berisso,98,17/3/2021,Sputnik,>60,1,I-110121
+F,70-79,Buenos Aires,6,Florencio Varela,274,Buenos Aires,6,Florencio Varela,274,24/2/2021,COVISHIELD,>60,1,4120Z023
+F,70-79,Corrientes,18,Capital,21,Corrientes,18,Capital,21,17/3/2021,Sputnik,>60,1,486010121
+F,70-79,Salta,66,Capital,28,Salta,66,Capital,28,20/2/2021,Sputnik,>60,1,I-080121
+F,70-79,Salta,66,Capital,28,Salta,66,Capital,28,15/3/2021,Sputnik,>60,2,II-090221
+F,30-39,CABA,2,COMUNA 1,1,Buenos Aires,6,Vicente Lopez,861,10/3/2021,Sinopharm,Salud,1,2021010038
+M,70-79,Buenos Aires,6,Moreno,560,Buenos Aires,6,Villa Gesell,868,23/2/2021,Sputnik,>60,1,I-080121
+F,70-79,Rio Negro,62,General Roca,42,Rio Negro,62,General Roca,42,1/4/2021,Sputnik,>60,1,I-220321
+F,30-39,Santa Fe,82,Rosario,84,Santa Fe,82,Rosario,84,5/3/2021,COVISHIELD,Salud,1,4120Z023
+M,70-79,San Juan,70,Rawson,77,San Juan,70,Capital,28,31/3/2021,Sinopharm,>60,1,2021010044
+F,50-59,San Juan,70,Santa Lucia,98,San Juan,70,Capital,28,4/3/2021,Sinopharm,Estrategico,1,2021010036
+S.I.,80-89,Entre Rios,30,Colon,8,Entre Rios,30,Colon,8,25/2/2021,COVISHIELD,>60,1,4120Z023
+F,80-89,Buenos Aires,6,Florencio Varela,274,Buenos Aires,6,Florencio Varela,274,17/3/2021,Sputnik,>60,1,I-110121
+F,40-49,Buenos Aires,6,Mar Chiquita,518,Buenos Aires,6,Mar Chiquita,518,4/1/2021,Sputnik,Salud,1,486081120R
+F,40-49,Buenos Aires,6,Mar Chiquita,518,Buenos Aires,6,Mar Chiquita,518,26/1/2021,Sputnik,Salud,2,ZB01820
+F,40-49,Buenos Aires,6,La Plata,441,Buenos Aires,6,La Plata,441,5/1/2021,Sputnik,Salud,1,486081120R
+F,40-49,Buenos Aires,6,La Plata,441,Buenos Aires,6,La Plata,441,28/1/2021,Sputnik,Salud,2,ZB01720
+F,50-59,Buenos Aires,6,La Plata,441,Buenos Aires,6,La Plata,441,12/3/2021,Sputnik,Riesgo,1,I-140121
+F,70-79,Misiones,54,Libertador Grl. San Martin,77,Misiones,54,Libertador Grl. San Martin,77,30/3/2021,Sputnik,>60,1,I-060121
+M,70-79,Chaco,22,Libertador General San Martin,84,Chaco,22,Libertador General San Martin,84,30/3/2021,Sputnik,>60,1,I-210321
+M,50-59,Buenos Aires,6,Tres Arroyos,833,Buenos Aires,6,Tres Arroyos,833,1/3/2021,COVISHIELD,Estrategico,1,4120Z023
+F,30-39,Buenos Aires,6,La Plata,441,Buenos Aires,6,La Plata,441,5/3/2021,Sinopharm,Estrategico,1,2021010036
+M,60-69,Neuquen,58,Confluencia,35,Neuquen,58,Confluencia,35,2/4/2021,Sputnik,>60,1,I-260321
+F,30-39,Buenos Aires,6,Esteban Echeverria,260,Buenos Aires,6,Lanus,434,18/2/2021,Sputnik,Salud,1,I-080121
+F,30-39,Buenos Aires,6,Florencio Varela,274,Buenos Aires,6,Florencio Varela,274,5/3/2021,Sinopharm,Estrategico,1,2021010036
+F,70-79,Chaco,22,San Fernando,140,Chaco,22,San Fernando,140,4/3/2021,COVISHIELD,>60,1,4120Z023
+F,40-49,Chubut,26,Biedma,7,Chubut,26,Biedma,7,24/2/2021,Sputnik,Salud,1,I-080121
+F,40-49,Chubut,26,Biedma,7,Chubut,26,Biedma,7,19/3/2021,Sputnik,Salud,2,II-020121
+M,80-89,Misiones,54,Iguazu,63,Misiones,54,Iguazu,63,12/3/2021,Sputnik,>60,1,486010121
+M,50-59,Jujuy,38,Palpala,42,Jujuy,38,Palpala,42,31/3/2021,Sinopharm,Riesgo,1,2021010044
+F,18-29,Buenos Aires,6,Moreno,560,CABA,2,COMUNA 4,4,19/3/2021,Sinopharm,Salud,1,2021010043
+F,70-79,La Pampa,42,Realica,133,La Pampa,42,Realico,133,15/3/2021,Sputnik,>60,1,I-060121
+M,60-69,Buenos Aires,6,Exaltacion de la Cruz,266,Buenos Aires,6,Exaltacion de la Cruz,266,24/2/2021,COVISHIELD,>60,1,4120Z023
+F,50-59,Mendoza,50,Guaymallen,28,Mendoza,50,Capital,7,15/3/2021,Sinopharm,Estrategico,1,2021010043
+F,60-69,San Luis,74,General Pedernera,35,San Luis,74,General Pedernera,35,15/3/2021,Sputnik,>60,1,I-080121
+M,80-89,Buenos Aires,6,Tres Arroyos,833,Buenos Aires,6,Tres Arroyos,833,19/2/2021,Sputnik,>60,1,I-080121
+M,80-89,Buenos Aires,6,Tres Arroyos,833,Buenos Aires,6,Tres Arroyos,833,12/3/2021,Sputnik,>60,2,II-100221
+F,40-49,La Pampa,42,Toay,140,La Pampa,42,Toay,140,26/2/2021,Sputnik,Salud,2,ZB01920
